@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BsDiff_And_Patch.iml" filepath="$PROJECT_DIR$/BsDiff_And_Patch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidPatch.iml" filepath="$PROJECT_DIR$/AndroidPatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
